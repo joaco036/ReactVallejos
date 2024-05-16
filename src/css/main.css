@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blue;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 1rem;
+}
+
+.ul{
+    display: flex;
+    list-style-type: none;
+    gap: 1rem;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+
+.p{
+    font-size: xx-large;
+    color: #fafafa;
+}
