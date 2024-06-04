@@ -33,3 +33,21 @@ body{
     font-size: xx-large;
     color: #fafafa;
 }
+
+.producto {
+    padding: 1rem;
+    margin: 2rem;
+    background-color: blueviolet;
+    width: 35vw;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+footer{
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-align: center;
+}
+
